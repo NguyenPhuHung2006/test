@@ -4,6 +4,10 @@ using namespace std;
 
 int n;
 
+
+
+
+
 double randomNum()
 {
 	random_device rd;
