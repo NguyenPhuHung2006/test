@@ -16,6 +16,11 @@ double randomNum()
     return dis(gen);
 }
 
+
+
+
+
+
 void estimatePi()
 {
 	int count_point_circle=0, count_point_total=0;
